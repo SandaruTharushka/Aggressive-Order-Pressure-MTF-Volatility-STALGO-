@@ -4,7 +4,7 @@
 
 A compact TradingView dashboard for estimated buy/sell pressure and multi-timeframe volatility.
 
-![STALGO dashboard](assets/stalgo-dashboard.png)
+![STALGO dashboard](assets/stalgo-dashboard.jpg)
 
 ## Features
 
